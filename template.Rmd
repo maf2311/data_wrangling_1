@@ -8,6 +8,7 @@ output: github_document
 ```{r setup}
 library(tidyverse)
 library(readxl)
+library(haven)
 ```
 
 ```{r}
